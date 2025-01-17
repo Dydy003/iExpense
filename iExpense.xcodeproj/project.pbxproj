@@ -14,7 +14,7 @@
 		F88D835D2D3AA0470081B2D8 /* Exceptions for "iExpense" folder in "iExpense" target */ = {
 			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
 			membershipExceptions = (
-				Assets.xcassets,
+				"Preview Content/Assets.xcassets",
 				"Preview Content/Preview Assets.xcassets",
 			);
 			target = F88D83492D3A8B150081B2D8 /* iExpense */;
